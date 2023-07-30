@@ -10,7 +10,7 @@ const cors = require("cors");
 //import mongoose
 const mongoose = require("mongoose");
 mongoose.connect(
-  "mongodb+srv://hanifcahyo:bwamern@cluster0.t2uraj0.mongodb.net/?retryWrites=true&w=majority"
+  "mongodb+srv://hanifprasetyo:hanifprasetyo@cluster0.cau76yx.mongodb.net/db_staycation?retryWrites=true&w=majority"
 );
 
 var indexRouter = require("./routes/index");
